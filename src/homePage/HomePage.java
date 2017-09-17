@@ -1,8 +1,8 @@
-package website;
+package homePage;
 
 import locations.Country;
 
-public class Website {
+public class HomePage {
 List<User> allUsers;
 List<Country> countries;
 List<City> cities;
