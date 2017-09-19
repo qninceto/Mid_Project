@@ -1,0 +1,39 @@
+Technology requirements:
+Design Patterns : Observer, Facade, DAO, Singleton, Factory Method
+Database Access : SQL, JPA, Hibernate, POJO
+REST services : Jersey + JSON Format
+
+Java EE Specific:
+Servlets
+JSP
+HTML & CSS
+JavaScript
+jQuery
+AJAX
+EJB
+
+Java Code Requirements:
+Multithreading and synchronization
+Exception Handling
+Proper Usage of Collections
+Strong OOP Design
+
+
+Useful links:
+TutorialsPoint.com
+vogella.com/tutorials
+w3schools.com
+docs.oracle.com
+oodesign.com
+http://www.refactoring.com/
+
+
+Simple Projects (choose one and make something similar):
+
+emag.bg
+9gag.com
+twitter.com
+instagram.com
+mobile.bg
+dominos.bg
+https://secure.budgettracker.com/login.php?sp=nouser
