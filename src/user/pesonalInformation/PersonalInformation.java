@@ -5,8 +5,8 @@ import java.time.*;
 import java.util.*;
 
 import locations.*;
-import user.Language;
-import user.User;
+import model.POJO.Language;
+import model.POJO.User;
 
 public class PersonalInformation {
 

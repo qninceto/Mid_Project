@@ -5,7 +5,7 @@ import java.time.*;
 import java.util.*;
 
 import features.Reference;
-import user.User;
+import model.POJO.User;
 
 public class ProfileInformation {
 	

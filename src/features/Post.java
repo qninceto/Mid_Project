@@ -2,7 +2,7 @@ package features;
 
 import java.time.LocalDateTime;
 
-import user.User;
+import model.POJO.User;
 
 public class Post {
 	private final String content;

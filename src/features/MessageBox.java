@@ -3,7 +3,7 @@ package features;
 import java.time.LocalDate;
 import java.util.*;
 
-import user.User;
+import model.POJO.User;
 
 public class MessageBox {
 private Collection<Message> messages;//composition!

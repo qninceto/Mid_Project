@@ -1,4 +1,4 @@
-package user;
+package model.POJO;
 
 public final class UserFunctinalities {
 	// final class to prevent overriding

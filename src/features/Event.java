@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.util.Collection;
 
 import locations.City;
-import user.User;
+import model.POJO.User;
 
 public class Event {
 private Collection<User> participants;

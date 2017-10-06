@@ -1,4 +1,4 @@
-package user;
+package model.POJO;
 
 import java.time.LocalDateTime;
 import java.util.*;

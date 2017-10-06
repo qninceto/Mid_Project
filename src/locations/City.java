@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.*;
 
 import features.Event;
-import user.User;
+import model.POJO.User;
 
 public class City {
 	private String name;
